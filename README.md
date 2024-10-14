@@ -1,2 +1,4 @@
 # Prob-Stat-Game
-Engineering Revision Gaming on Probability and Statistics
+Engineering Review Gaming on Probability and Statistics
+
+1. [EK381: Probability, Statistics, and Data Science for Engineers @ BU](https://bobaknazer.github.io/probstatdata/)
